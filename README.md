@@ -46,6 +46,15 @@ Sou apaixonada por qualidade de software e por transformar processos em soluçõ
 * AWS CloudWatch
 * NewRelic
 
+---  
+
+## 📊 Estatísticas do GitHub
+
+![Daniela GitHub stats](https://github-readme-stats.vercel.app/api?username=danielavieiratester&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielavieiratester&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=danielavieiratester&theme=tokyonight)
 ---
 
 ## 💼 Experiência
