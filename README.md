@@ -1,7 +1,3 @@
-Aqui vai um README completo, profissional e com um toque pessoal, baseado no seu currículo 👇
-
----
-
 # 👩‍💻 Daniela Vieira
 
 🚀 **Analista de Testes | QA | Automação de Testes**
