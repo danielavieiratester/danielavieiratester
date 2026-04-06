@@ -1,4 +1,4 @@
-# 👩‍💻 Daniela Vieira
+# 👩‍💻 Daniela Vieira (danielavieiratester)
 
 🚀 **Analista de Testes | QA | Automação de Testes**
 
