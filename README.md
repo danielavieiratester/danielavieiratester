@@ -9,7 +9,7 @@ Sou apaixonada por qualidade de software e por transformar processos em soluçõ
 ## 💡 Sobre mim
 
 * 🎯 Atuação em testes manuais e automatizados
-* 🤖 Foco em automação de testes com **Robot Framework, Playwright e Selenium**
+* 🤖 Foco em automação de testes com **Robot Framework e Playwright**
 * 🔎 Experiência com testes de API (Postman, Swagger)
 * 🧪 Conhecimento em **TDD e BDD (Cucumber, Gherkin)**
 * 📊 Validação de dados com SQL
